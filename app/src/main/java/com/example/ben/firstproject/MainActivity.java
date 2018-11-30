@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
         Switch switchCapital = (Switch)findViewById(R.id.switch1);
         Button previousButton = (Button)findViewById(R.id.button3);
 
+        // TODO just checking diff
+
         switchCapital.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
