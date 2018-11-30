@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Letter</string>
+    <string name="random_number">Random Letter</string>
+    <string name="next_number">Next Letter</string>
+    <string name="click_a_button">Click a button!</string>
+    <string name="capitals1">Capitals</string>
+    <string name="button2">Previous Letter</string>
+</resources>
