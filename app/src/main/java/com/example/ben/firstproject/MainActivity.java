@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
     public String currentString = numbers[numberValue];
 
-    // TODO misha - added a comment to check git workings... delete it
     public boolean capital = false;
 
     @Override
